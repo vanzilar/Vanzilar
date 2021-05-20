@@ -1,4 +1,4 @@
-### Experimetal Hidden Introduction 
+### Experimetal "Hidden" Gitteriffic Introduction 
 
 <!--
 **vanzilar/Vanzilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
